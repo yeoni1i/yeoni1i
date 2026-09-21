@@ -1,4 +1,4 @@
-Gayoun Jin
+# Gayoun Jin
 AI · Backend Developer
 
 ↓
