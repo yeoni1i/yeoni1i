@@ -7,7 +7,7 @@ AI와 Backend를 중심으로 공부하고 있습니다.
 기술 자체보다 실제 문제를 어떻게 해결할 수 있는지 고민하고 구현하는 과정에 관심이 있습니다.
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
