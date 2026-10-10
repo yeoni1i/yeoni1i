@@ -1,4 +1,4 @@
-# Gayeon Jin
+# Jin Gayeon 
 AI · Backend Developer
 
 ## About ME
